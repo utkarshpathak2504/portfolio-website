@@ -13,7 +13,7 @@ export const Bio = {
   name: "Utkarsh Pathak",
   roles: ["Web Developer", "Programmer"],
   description:
-    "I am a result-oriented individual with a strong drive to learn new things and explore fresh challenges. I thrive in environments that encourage growth and push me to take on challenges, always seeking opportunities to expand my knowledge and skills. With over two years of experience(internships and full-time), my expertise lies in developing robust web solutions.",
+    "I am a result-oriented individual with a strong drive to learn and tackle new challenges. I thrive in environments that foster growth and encourage me to push my limits, constantly seeking opportunities to expand my skills and knowledge. With over two years of experience, I specialize in developing robust web solutions.",
   linkedin: "https://www.linkedin.com/in/utkarshpathak2000/",
   resume:
     "https://drive.google.com/file/d/1D19JPHZpoS9_3h66vsKVvRmhyhkcC49o/view",
