@@ -16,7 +16,7 @@ export const Bio = {
     "I am a result-oriented individual with a strong drive to learn and tackle new challenges. I thrive in environments that foster growth and encourage me to push my limits, constantly seeking opportunities to expand my skills and knowledge. With over two years of experience, I specialize in developing robust web solutions.",
   linkedin: "https://www.linkedin.com/in/utkarshpathak2000/",
   resume:
-    "https://drive.google.com/file/d/1D19JPHZpoS9_3h66vsKVvRmhyhkcC49o/view",
+    "https://drive.google.com/file/d/1oL7a3A8fPGmow6Cubl1g6JS1qmQ9hDji/view",
   github: "https://github.com/utkarshpathak2504",
   leetcode: "https://leetcode.com/u/UtkarshPathak/",
   gfg:"https://www.geeksforgeeks.org/user/utkarshpathak2504/"
@@ -172,8 +172,25 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+   {
     id: 0,
+    img: bajajLogo,
+    role: "Software Development Engineer (SDE-2)",
+    company: "Bajaj Finserv Health",
+    date: "October 2024 - Present",
+    desc: "Engineered micro-frontend for module, developing reusable components for seamless web and app integration, enhancing code reusability and user experience. Led SDK integrations and mentored junior developers, fostering best practices and a collaborative environment.",
+    skills: [
+      "Micro-frontend",
+      "JavaScript",
+      "TypeScript",
+      "Next Js",
+      "Nginx",
+      "SDK Integration"
+    ],
+    doc: "",
+  },
+  {
+    id: 1,
     img: bajajLogo,
     role: "Associate Software Development Engineer (SDE-1)",
     company: "Bajaj Finserv Health",
@@ -190,7 +207,7 @@ export const experiences = [
     doc: "",
   },
   {
-    id: 1,
+    id: 2,
     img:bajajLogo,
     role: "Software Development Engineer Intern",
     company: "Bajaj Finserv Health",
@@ -206,7 +223,7 @@ export const experiences = [
     doc: "",
   },
   {
-    id: 2,
+    id: 3,
     img:aligntogetherLogo,
     role:"Software Development Engineer Intern",
     company: "Aligntogether.live",
@@ -221,7 +238,7 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     img:  sipaLogo,
     role:"Web Development Intern",
     company: "Seven Institute of Performing Arts",
@@ -234,7 +251,7 @@ export const experiences = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     img:  sercLogo,
     role:"Remote Digital Internship",
     company: "SERC @IIIT Hyderabad",
